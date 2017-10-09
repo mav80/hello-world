@@ -1,4 +1,4 @@
 # hello-world
 
-This is experimental branching of first ever github project
+This is experimental branching of my first ever github project.
 
